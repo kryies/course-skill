@@ -1,0 +1,10 @@
+{
+  "course_name": "示例课程名",
+  "concept_keywords": "核心概念关键词1|关键词2|关键词3",
+  "skip_patterns": ["阶段复习", "总结", "考核", "CTF", "综合项目"],
+  "doc_pattern": "课时*.md",
+  "concept_map": {
+    "关键": "关键概念显示名",
+    "概念": "概念显示名"
+  }
+}
